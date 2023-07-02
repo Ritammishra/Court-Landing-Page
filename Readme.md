@@ -7,6 +7,7 @@
 ![image](https://img.shields.io/badge/Second-css-green)
 ***
 ![image](./Thumbnail.png)
+[Live Preview](https://cour-landing-page-project-3.netlify.app/)
 ***
 ## What I learn from this project
 - How to add Image.
