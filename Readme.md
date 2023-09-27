@@ -1,12 +1,13 @@
 # Court Landing Page | Project-3
 #### by Ritam Mishra
 ### Tech That I use 
-![image](https://img.shields.io/badge/Html%20%26%20CSS-Project--2-orange) <br>
+![image](https://img.shields.io/badge/Html%20%26%20CSS-Project--3-orange) <br>
 ![image](https://img.shields.io/badge/FirstTech-Html-orange)
 <br>
 ![image](https://img.shields.io/badge/Second-css-green)
 ***
 ![image](./Thumbnail.png)
+[Live Preview](https://cour-landing-page-project-3.netlify.app/)
 ***
 ## What I learn from this project
 - How to add Image.
