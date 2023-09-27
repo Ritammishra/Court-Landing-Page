@@ -11,36 +11,40 @@ body{
 .navbar{
     display: flex;
     justify-content: space-between;
-    padding: 20px 40px;
+    margin-top: 18px;
+    margin-right: 14px;
+    margin-left: 14px;
     font-family: 'Montserrat';
 }
 .navbar img{
     width: 90px;
-    height: 35px;
+    height: 32px;
 }
 .navmenu{
-    left: 80px;
-    position: relative;
+    margin-left: 7rem;
+
 }
 .navmenu ul{
     display: flex;
     width: 90vh;
     justify-content: space-around;
     list-style-type: none;
-    color: #928b8b;
-    position: relative;
-    top: 12px;
+    color: #a5a5a5;
 }
-.navbar ul li:first-child{
+.navbar ul li:hover{
     color: #fff;
 }
 .navbar .nav-button{
-    width: 20vh;
-    height: 40px;
-    background-color: #2b2922;
-    border: 2px solid #74750c;
-    color: #74750c;
-    border-radius: 8px;
+    background-color: #2B2922;
+    color: #cfa408;
+    padding: 12px;
+    border: 2px solid #cfa408;
+    border-radius: 12px;
+}
+.btn button:hover{
+    background-color: #cfa408;
+    color: #2B2922;
+    border: 2px solid #2B2922;
 }
 .hero{
     display: flex;
